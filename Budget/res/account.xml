@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<bill>
+		<name>House</name>
+		<amount>240</amount>
+		<due_date>
+			<month>1</month>
+			<day>1</day>
+			<year>1</year>
+		</due_date>
+		<importance>high</importance>
+		<type>income</type>
+	</bill>
+	<bill>
+		<name>Water</name>
+		<amount>150</amount>
+		<due_date>
+			<month>1</month>
+			<day>2</day>
+			<year>1</year>
+		</due_date>
+		<importance>med</importance>
+		<type>expense</type>
+	</bill>
+</configuration>
